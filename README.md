@@ -15,7 +15,7 @@ Block 1:
    * users' preference, i.e:
       - Meal of the day
         user chooses a recipe from a list based on
-         - #ethnic foods
+         - #cuisine
          - #difficulty
          - #health
          - #occassion
@@ -25,7 +25,8 @@ Block 1:
          - #what is in my fridge
 
 Descriptions
-Ethnic foods: show a list of options based on different cultural foods such as: Thai,
+
+cuisine: show a list of options based on different cultural foods such as: Thai,
 Chinese, Japanese, Mexican, Italian, German, Greek, etc.
 
 Difficuly: varies based on the time preparation work and cooking takes. Also includes the types of
@@ -47,8 +48,10 @@ matching of what you have to other recipes. There is also a list to show recipes
 percentages of what you can make from the things you have including things that you don't have. (credit -- Christine)
 
 
-Block 2:
-    Knowledge Needed:
+Block 2: User Interface
+
+Block 3: Knowledge Needed ---
+    
         * HTML/ CSS
         * Javascript
         * Databases
@@ -56,9 +59,6 @@ Block 2:
         * Search Algorithms
         * Matching Algorithms
         * Web hosting
-        
-Block 3:
-    
         
         
 
